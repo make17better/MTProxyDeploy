@@ -1,2 +1,2 @@
-# MTProxySetup
-A script to setup MTProxy.
+# MTProxyDeploy
+A script to setup & manage the MTProxy.
